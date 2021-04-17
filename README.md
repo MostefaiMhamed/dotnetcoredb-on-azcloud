@@ -1,2 +1,2 @@
 # dotnetcoredb-on-azcloud
-Test application dotnetcore avec acces au BD d'azure SQL 
+Test application dotnetcore avec acces à la BD d'azure SQL 
