@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/sqlmmi05/databases/coreDB",
+      "type": "mssql.azure",
+      "connectionId": "MyDbConnection",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
