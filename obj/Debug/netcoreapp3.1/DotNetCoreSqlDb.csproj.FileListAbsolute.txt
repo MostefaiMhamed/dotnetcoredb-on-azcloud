@@ -183,7 +183,6 @@ F:\GitLearningmmi\dotnetcoredb-on-azcloud\bin\Debug\netcoreapp3.1\runtimes\win-x
 F:\GitLearningmmi\dotnetcoredb-on-azcloud\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 F:\GitLearningmmi\dotnetcoredb-on-azcloud\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 F:\GitLearningmmi\dotnetcoredb-on-azcloud\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-F:\GitLearningmmi\dotnetcoredb-on-azcloud\obj\Debug\netcoreapp3.1\DotNetCoreSqlDb.csprojAssemblyReference.cache
 F:\GitLearningmmi\dotnetcoredb-on-azcloud\obj\Debug\netcoreapp3.1\DotNetCoreSqlDb.AssemblyInfoInputs.cache
 F:\GitLearningmmi\dotnetcoredb-on-azcloud\obj\Debug\netcoreapp3.1\DotNetCoreSqlDb.AssemblyInfo.cs
 F:\GitLearningmmi\dotnetcoredb-on-azcloud\obj\Debug\netcoreapp3.1\DotNetCoreSqlDb.csproj.CoreCompileInputs.cache
@@ -214,3 +213,4 @@ F:\GitLearningmmi\dotnetcoredb-on-azcloud\obj\Debug\netcoreapp3.1\staticwebasset
 F:\GitLearningmmi\dotnetcoredb-on-azcloud\obj\Debug\netcoreapp3.1\DotNetCoreSqlDb.dll
 F:\GitLearningmmi\dotnetcoredb-on-azcloud\obj\Debug\netcoreapp3.1\DotNetCoreSqlDb.pdb
 F:\GitLearningmmi\dotnetcoredb-on-azcloud\obj\Debug\netcoreapp3.1\DotNetCoreSqlDb.genruntimeconfig.cache
+F:\GitLearningmmi\dotnetcoredb-on-azcloud\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\listtodommi-dev - Web Deploy\profile.arm.json
