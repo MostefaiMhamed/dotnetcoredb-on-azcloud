@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EQTF7v1Z6xWgmZ6x7EzX05hbjF6jF+3k2MGbTHMBq55ejfCrXr+1sX6b5eUd44sgZ3ZNc0Pg/dFhRROjn2+RCQ==",
+  "dgSpecHash": "gLFRi9lSGZLYOiYKSr9VVqDNSLd/PFLsuJipPfGdNfSDIDBsJM68nMiWtHUzZl1ptZLvU1taBwYq8aTE7TUAGg==",
   "success": true,
-  "projectFilePath": "F:\\GitLearningmmi\\DotNetCoreSqlDb.csproj",
+  "projectFilePath": "F:\\GitLearningmmi\\dotnetcoredb-on-azcloud\\DotNetCoreSqlDb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MhamedMostefai\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\MhamedMostefai\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

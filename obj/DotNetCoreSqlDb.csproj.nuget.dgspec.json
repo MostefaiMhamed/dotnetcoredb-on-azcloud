@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\GitLearningmmi\\DotNetCoreSqlDb.csproj": {}
+    "F:\\GitLearningmmi\\dotnetcoredb-on-azcloud\\DotNetCoreSqlDb.csproj": {}
   },
   "projects": {
-    "F:\\GitLearningmmi\\DotNetCoreSqlDb.csproj": {
+    "F:\\GitLearningmmi\\dotnetcoredb-on-azcloud\\DotNetCoreSqlDb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\GitLearningmmi\\DotNetCoreSqlDb.csproj",
+        "projectUniqueName": "F:\\GitLearningmmi\\dotnetcoredb-on-azcloud\\DotNetCoreSqlDb.csproj",
         "projectName": "DotNetCoreSqlDb",
-        "projectPath": "F:\\GitLearningmmi\\DotNetCoreSqlDb.csproj",
+        "projectPath": "F:\\GitLearningmmi\\dotnetcoredb-on-azcloud\\DotNetCoreSqlDb.csproj",
         "packagesPath": "C:\\Users\\MhamedMostefai\\.nuget\\packages\\",
-        "outputPath": "F:\\GitLearningmmi\\obj\\",
+        "outputPath": "F:\\GitLearningmmi\\dotnetcoredb-on-azcloud\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
